@@ -6,7 +6,7 @@ const Explore: NextPage = (props) => {
   return (
     <div>
       <Head>
-        <title>Solana Scaffold</title>
+        <title>Nft Marketplace</title>
         <meta name="description" content="Basic Functionality" />
       </Head>
       <ExploreView />
