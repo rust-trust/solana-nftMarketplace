@@ -42,7 +42,7 @@ const Info = () => {
                                 </div>
                                 <div className={styles.infoRightDiamondItem} absolute-center >
                                     <img
-                                        src="https://i.seadn.io/gae/LS2AweBD09u_9ZJKCg0kygkkUwUEm48vdgFNYm7SoT-GvQ9iysUUCbSz5ILDKd3SfLFstKOOmKjeWdE7_SZwVhCSggHiLLwytEGN?auto=format&w=128"
+                                        src="https://content.solsea.io/files/thumbnail/1656643424881-300158223.gif"
                                         alt="diamond1"
                                         className={styles.infoRightDiamondItemImg}
                                     />
@@ -56,7 +56,7 @@ const Info = () => {
                                 </div>
                                 <div className={styles.infoRightDiamondItem} absolute-center >
                                     <img
-                                        src="https://i.seadn.io/gcs/files/761fafa5d0d0c4cf4d209daa0e5fcf9f.gif?auto=format&w=128"
+                                        src="https://content.solsea.io/files/thumbnail/1667332565786-427124174.gif"
                                         alt="diamond1"
                                         className={styles.infoRightDiamondItemImg}
                                     />
