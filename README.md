@@ -13,6 +13,10 @@
  ---
  
  ##  🛠  $\textcolor{gray}{Install\ dependencies}$
+ 
+ ```ruby
+ 
+ ```
 
 Responsive                     |  Desktop
 :-------------------------:|:-------------------------:
