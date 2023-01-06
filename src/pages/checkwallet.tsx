@@ -1,10 +1,8 @@
 import type { NextPage } from "next";
 import Head from "next/head";
-import Info from "../components/Info"
+import { CheckWalletView } from "../views";
 
-import { HomeView } from "../views";
-
-const Home: NextPage = (props) => {
+const CheckWallet: NextPage = (props) => {
   return (
     <div>
       <Head>
@@ -14,11 +12,9 @@ const Home: NextPage = (props) => {
           content="NFT Marketplace"
         />
       </Head>
-      <HomeView />
-      <Info/>
-   
+      <CheckWalletView />
     </div>
   );
 };
 
-export default Home;
+export default CheckWallet;
