@@ -1,0 +1,78 @@
+
+
+.infoPart3 {
+    margin-top: 20rem;
+      position: relative;
+      display: flex;
+      flex: 1;
+  }
+  .leftImage{
+      margin-left: 0%;
+      padding-top: 5rem;
+   
+      width: 90%;
+  
+  }
+    
+    .infoRightDiamond {
+      display: flex;
+      flex-wrap: wrap;
+      transform: rotate(45deg);
+    
+    }
+    
+    .infoRightDiamondItem {
+      height: 230px;
+      width: 230px;
+      overflow: hidden;
+      transform: rotate(-45deg);
+      cursor: pointer;
+      /* margin: 6px; */
+      border: 3px solid rgb(4, 188, 212);
+      border-radius: 2rem;
+      -webkit-border-radius: 2rem;
+      -moz-border-radius: 2rem;
+      -ms-border-radius: 2rem;
+      -o-border-radius: 2rem;
+      
+  }
+    
+    .infoRightDiamondItemImg {
+   margin: 0%;
+      height: 220px;
+      object-fit: contain;
+      display: block;
+      border-radius: 2rem;
+      -webkit-border-radius: 2rem;
+      -moz-border-radius: 2rem;
+      -ms-border-radius: 2rem;
+      -o-border-radius: 2rem;
+     
+    }
+    
+    .infoRightBg {
+      height:550px;
+      width:550px;
+      background-color: rgb(19, 11, 32);
+      filter: blur(160.58px);
+      position: absolute;
+      z-index: -99;
+      left: 50%;
+      top: 50%;
+      transform: translate(-50%);
+      -webkit-transform: translate(-50%);
+      -moz-transform: translate(-50%);
+      -ms-transform: translate(-50%);
+      -o-transform: translate(-50%);
+      -webkit-filter: blur(160.58px);
+  }
+  .Myborders {
+      margin-top: 0.5rem;
+      width: 20rem;
+      height: 0.25rem;
+      border-width: 0;
+      background-color: rgb(233, 179, 188);
+      text-align: center;
+    
+    }
+    

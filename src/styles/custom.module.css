@@ -48,5 +48,61 @@
  
 }
 
+.infinite {
+  margin-left: auto;
+  margin-right: auto;
+  width:50%;
+  text-align: center;
+}
 
+
+.container {
+  position: relative;
+  text-align: center;
+  color: white;
+  
+}
+.intronft{
+  width:60%;
+  text-align: center;
+  /* margin-top: 2rem; */
+  margin-left: auto;
+  margin-right: auto;
+
+}
+/* Centered text */
+.centered {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.sologo{
+  width: 20%;
+  
+}
+.sologo1{
+  width: 11%;
+
+  
+}
+.Myhead {
+  display: flex;
+  margin-bottom: 3rem;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+
+}
+
+
+.Myborders {
+  margin-top: 0.5rem;
+  width: 30rem;
+  height: 0.25rem;
+  border-width: 0;
+  background-color: rgb(233, 179, 188);
+
+}
 

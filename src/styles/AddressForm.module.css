@@ -1,0 +1,17 @@
+.input {
+    background: #0b8eca;
+  }
+    
+  .formField {
+    margin: 10px 0 10px 0;
+    min-width: 500px;
+    padding: 15px;
+    font-size: 16px;
+    border: 0;
+    font-family: "Roboto", sans-serif;
+    color:rgb(67, 50, 228);
+  }
+
+ 
+
+
