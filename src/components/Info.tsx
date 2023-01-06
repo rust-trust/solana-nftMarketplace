@@ -21,7 +21,7 @@ const Info = () => {
                     </div>
                     <div className="flex justify-center text-6xl  p-4 ">
 
-                        {/* < img src={introimage.src} alt="" /> */}
+                      
                         <div className={styles.infoPart3}>
                             <div className={styles.infoRightBg}>
 
