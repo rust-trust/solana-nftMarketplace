@@ -20,6 +20,11 @@ export const ContentContainer: FC = (props) => {
             </Link>
           </li>
           <li>
+            <Link href="/checkwallet">
+              <a>Check Your Wallet</a>
+            </Link>
+          </li>
+          <li>
             <Link href="/display">
               <a>Display NFT</a>
             </Link>
@@ -29,6 +34,12 @@ export const ContentContainer: FC = (props) => {
               <a>Candy Machine</a>
             </Link>
           </li>
+          <li>
+            <Link href="/explore">
+              <a>Explore/Buy</a>
+            </Link>
+          </li>
+        
         </ul>
       </div>
     </div>
