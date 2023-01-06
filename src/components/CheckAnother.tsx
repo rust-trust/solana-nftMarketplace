@@ -35,7 +35,7 @@ const  CheckAnother = () => {
           <div className={styles.App}>
               <header className={styles.AppHeader}>
                   <h3 className="text-center text-5xl md:pl-12 font-bold text-transparent bg-clip-text bg-gradient-to-tr from-[#9945FF] to-[#14F195]">
-                      Start Your Solana Journey
+                      Check Your Wallet
                   </h3>
 
                   <AddressForm handler={addressSubmittedHandler} />

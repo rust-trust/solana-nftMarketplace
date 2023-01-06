@@ -70,27 +70,7 @@ export const AppBar: FC = (props) => {
                 />
               </g>
              
-              {/* <defs>
-                <linearGradient
-                  id="paint0_linear_1064_606"
-                  x1="10.81"
-                  y1="98.29"
-                  x2="98.89"
-                  y2="-1.01005"
-                  gradientUnits="userSpaceOnUse"
-                >
-                  <stop offset="0.08" stopColor="#9945FF" />
-                  <stop offset="0.3" stopColor="#8752F3" />
-                  <stop offset="0.5" stopColor="#5497D5" />
-                  <stop offset="0.6" stopColor="#43B4CA" />
-                  <stop offset="0.72" stopColor="#28E0B9" />
-                  <stop offset="0.97" stopColor="#19FB9B" />
-                </linearGradient>
-                <clipPath id="clip0_1064_606">
-                  <rect width="646" height="96" fill="white" />
-                </clipPath>
-              </defs> */}
-            </svg>
+           </svg>
           </div>
         </div>
 

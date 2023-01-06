@@ -36,4 +36,9 @@ img {
   background: rgb(44,3,94);
 background: linear-gradient(90deg, rgba(44,3,94,1) 0%, rgba(196,49,12,1) 55%, rgba(11,11,40,1) 100%);
 }
+.bg-base-100 {
+  --tw-bg-opacity: 1;
+  background: rgb(44,3,94);
+background: linear-gradient(90deg, rgba(44,3,94,1) 0%, rgba(196,49,12,1) 55%, rgba(11,11,40,1) 100%);
+}
 

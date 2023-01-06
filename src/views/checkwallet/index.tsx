@@ -31,8 +31,9 @@ export const CheckWalletView : FC = ({}) => {
     <div className="md:hero mx-auto p-4">
       <div className="md:hero-content flex flex-col">
      
-        <CheckAnother/>
+        
         <div className="text-center">
+        <CheckAnother/>
           <RequestAirdrop />
           {/* {wallet.publicKey && <p>Public Key: {wallet.publicKey.toBase58()}</p>} */}
           {wallet && <p>SOL Balance: {(balance || 0).toLocaleString()}</p>}

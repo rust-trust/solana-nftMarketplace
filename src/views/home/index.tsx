@@ -65,7 +65,7 @@ export const HomeView: FC = ({ }) => {
               }}
             >
               <button
-                className="px-12 m-20 btn animate-pulse bg-gradient-to-r from-[#9945FF] to-[#14F195] hover:from-pink-500 hover:to-yellow-500 ..."
+                className="px-12 m-2 btn animate-pulse bg-gradient-to-r from-[#9945FF] to-[#14F195] hover:from-pink-500 hover:to-yellow-500 ..."
 
               >
                 Explore

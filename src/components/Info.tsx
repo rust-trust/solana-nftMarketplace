@@ -1,20 +1,15 @@
 import React from "react";
-
-
 import infoimage from "../../public/nft2.png";
 import styles from "../styles/diamond.module.css"
-// import Heading from "./Heading";
+import Heading from "./Heading";
 // Collectible items, Music and media, Gaming,Sports Moments
 // className=" text-center mt-2 w-80 h-1 border-0 bg-white ml-50 " 
 
 const Info = () => {
     return (
         <div className="mt-40 ">
-            {/* <h1 className="text-center text-5xl md:pl-12 font-bold text-transparent bg-clip-text bg-gradient-to-tr from-[#9945FF] to-[#14F195]">
-                More than art...
-            </h1> */}
-            {/* <hr className=" text-center mt-2 w-80 h-1 border-0 bg-white ml-50 " /> */}
-            {/* <Heading title={"More than art... "} />  */}
+           
+            <Heading title={"More than art... "} /> 
             <div className="container mx-auto mt-2">
                 <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 gap-1">
                     <div className="flex justify-center text-6xl  p-4 ">
