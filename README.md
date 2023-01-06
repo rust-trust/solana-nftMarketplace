@@ -17,8 +17,7 @@ The responsive version for wallets and wallet adapter may not function or work a
 
 ```bash
 npm install
-# or
-yarn install
+
 ```
 
 ## Build and Run
@@ -27,8 +26,7 @@ Next, run the development server:
 
 ```bash
 npm run dev
-# or
-yarn dev
+
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
@@ -63,65 +61,18 @@ Notifications (optional): Example of using a notification system
 A Solana Components Repo will be released in the near future to house a common components library.
 
 
-### Structure
+### Select your wallet and connect with your wallet address.
 
-The scaffold project structure may vary based on the front end framework being utilized. The below is an example structure for the Next js Scaffold.
- 
-```
-├── public : publically hosted files
-├── src : primary code folders and files 
-│   ├── components : should house anything considered a resuable UI component
-│   ├── contexts` : any context considered reusable and useuful to many compoennts that can be passed down through a component tree
-│   ├── hooks` : any functions that let you 'hook' into react state or lifecycle features from function components
-│   ├── models` : any data structure that may be reused throughout the project
-│   ├── pages` : the pages that host meta data and the intended `View` for the page
-│   ├── stores` : stores used in state management
-│   ├── styles` : contain any global and reusable styles
-│   ├── utils` : any other functionality considered reusable code that can be referenced
-│   ├── views` : contains the actual views of the project that include the main content and components within
-style, package, configuration, and other project files
+![image](https://user-images.githubusercontent.com/109158340/208193420-ecbf3f3a-bd2c-4e41-a3a7-b6522908c49a.png)
+![image](https://user-images.githubusercontent.com/109158340/208192486-7348a1d4-dadd-463f-8291-fba48a57f65f.png)
+---
+### You can connect with your wallet address to display your Nfts.
+![image](https://user-images.githubusercontent.com/109158340/208232611-667b1cc4-6492-49cd-8053-ca7e4947cfa8.png)
 
-```
-
-## Contributing
-
-Anyone is welcome to create an issue to build, discuss or request a new feature or update to the existing code base. Please keep in mind the following when submitting an issue. We consider merging high value features that may be utilized by the majority of scaffold users. If this is not a common feature or fix, consider adding it to the component library or cookbook. Please refer to the project's architecture and style when contributing. 
-
-If submitting a feature, please reference the project structure shown above and try to follow the overall architecture and style presented in the existing scaffold.
-
-### Committing
-
-To choose a task or make your own, do the following:
-
-1. [Add an issue](https://github.com/solana-dev-adv/solana-dapp-next/issues/new) for the task and assign it to yourself or comment on the issue
-2. Make a draft PR referencing the issue.
-
-The general flow for making a contribution:
-
-1. Fork the repo on GitHub
-2. Clone the project to your own machine
-3. Commit changes to your own branch
-4. Push your work back up to your fork
-5. Submit a Pull request so that we can review your changes
-
-**NOTE**: Be sure to merge the latest from "upstream" before making a 
-pull request!
-
-You can find tasks on the [project board](https://github.com/solana-dev-adv/solana-dapp-next/projects/1) 
-or create an issue and assign it to yourself.
+### Find out your Metadata on console
+![image](https://user-images.githubusercontent.com/109158340/208253491-c7deb7a9-d41e-4f67-9b23-2d3bdfc6405c.png)
 
 
-## Learn More Next Js
 
-To learn more about Next.js, take a look at the following resources:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.

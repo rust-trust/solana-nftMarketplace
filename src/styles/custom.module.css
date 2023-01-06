@@ -3,3 +3,50 @@
   grid-template-columns: repeat(3, 1fr);
   grid-gap: 0.5em;
 }
+
+
+
+.innerwrapper{
+  background:rgb(65, 144, 201) ;
+  padding: 2px;
+  border-radius: 18px;
+  
+}
+.content{
+  background-color: rgb(196, 148, 214);
+  border-radius: 18px;
+  padding: 10px;
+ 
+  
+}
+.content:hover .imgnft{
+ transform: scale(1.05);
+ border-radius:1rem ;
+
+}
+
+
+.imgnft{
+ height: 300px;
+ margin: auto;
+ border-radius: 18px;
+
+}
+
+.nftinfoname{
+  /* font-size: 18px;
+  font-weight: 400;
+  color: aqua;
+  display: end;
+  padding-top: 0.5rem; */
+  font-size: 18px;
+  font-weight: bold;
+  background: linear-gradient(-45deg, #a80a66, #07c6df, #e2084a);
+  background-clip: text;
+  -webkit-text-stroke: 4px transparent;
+  -webkit-text-fill-color: black;
+ 
+}
+
+
+

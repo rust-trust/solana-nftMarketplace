@@ -6,7 +6,7 @@ import styles from "../styles/custom.module.css"
 
 export const FetchCandyMachine: FC = () => {
   const [candyMachineAddress, setCandyMachineAddress] = useState(
-    "9tQLFyLeaUwQ1PN2YDiFztZDxu4KT6px8CBYEapkshAD"
+    null
   )
   const [candyMachineData, setCandyMachineData] = useState(null)
   const [pageItems, setPageItems] = useState(null)
@@ -47,7 +47,7 @@ export const FetchCandyMachine: FC = () => {
       let json = await fetchResult.json()
       nftData.push(json)
     }
-
+    console.log(nftData)
     // set state
     setPageItems(nftData)
   }
@@ -76,7 +76,7 @@ export const FetchCandyMachine: FC = () => {
     if (!candyMachineData) {
       return
     }
-    getPage(page, 9)
+    getPage(page, 3)
   }, [candyMachineData, page])
 
   return (
@@ -104,9 +104,17 @@ export const FetchCandyMachine: FC = () => {
         <div>
           <div className={styles.gridNFT}>
             {pageItems.map((nft) => (
-              <div>
-                <ul>{nft.name}</ul>
-                <img src={nft.image} />
+              <div className={styles.innerwrapper}>
+                <div className={styles.content}>
+                  <img
+                    src={nft.image}
+                    alt={nft.name}
+                    className={styles.imgnft}
+                  />
+                  <div className={styles.nftinfo}>
+                    <div className={styles.nftinfoname}> {nft.name}  </div>
+                  </div>
+                </div>
               </div>
             ))}
           </div>
