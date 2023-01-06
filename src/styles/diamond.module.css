@@ -13,12 +13,15 @@
   
   }
     
-    .infoRightDiamond {
+.infoRightDiamond {
       display: flex;
       flex-wrap: wrap;
       transform: rotate(45deg);
-    
-    }
+      -webkit-transform: rotate(45deg);
+      -moz-transform: rotate(45deg);
+      -ms-transform: rotate(45deg);
+      -o-transform: rotate(45deg);
+}
     
     .infoRightDiamondItem {
       height: 215px;
@@ -36,7 +39,7 @@
       
   }
     
-    .infoRightDiamondItemImg {
+    /* .infoRightDiamondItemImg {
    margin: 0%;
       height: 220px;
       object-fit: contain;
@@ -64,7 +67,7 @@
       -ms-transform: translate(-50%);
       -o-transform: translate(-50%);
       -webkit-filter: blur(160.58px);
-  }
+  } */
   .Myborders {
       margin-top: 0.5rem;
       width: 20rem;
