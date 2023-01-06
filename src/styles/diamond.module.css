@@ -21,8 +21,8 @@
     }
     
     .infoRightDiamondItem {
-      height: 220px;
-      width: 220px;
+      height: 215px;
+      width: 215px;
       overflow: hidden;
       transform: rotate(-45deg);
       cursor: pointer;
