@@ -1,9 +1,10 @@
 import { FC } from "react"
 import Link from "next/link"
-
 import { WalletMultiButton } from "@solana/wallet-adapter-react-ui"
 import { useAutoConnect } from "../contexts/AutoConnectProvider"
 import NetworkSwitcher from "./NetworkSwitcher"
+import SolLogo from "../../public/nft4.png"
+import styles from "../styles/custom.module.css"
 
 export const AppBar: FC = (props) => {
   const { autoConnect, setAutoConnect } = useAutoConnect()
@@ -28,8 +29,9 @@ export const AppBar: FC = (props) => {
               ></path>
             </svg>
           </label>
-
+          <img src={SolLogo.src} alt="" className={styles.sologo1}/>
           <div className="hidden sm:inline w-22 h-22 md:p-2">
+           
             <svg
               width="100%"
               height="22"
@@ -67,7 +69,8 @@ export const AppBar: FC = (props) => {
                   fill="white"
                 />
               </g>
-              <defs>
+             
+              {/* <defs>
                 <linearGradient
                   id="paint0_linear_1064_606"
                   x1="10.81"
@@ -86,7 +89,7 @@ export const AppBar: FC = (props) => {
                 <clipPath id="clip0_1064_606">
                   <rect width="646" height="96" fill="white" />
                 </clipPath>
-              </defs>
+              </defs> */}
             </svg>
           </div>
         </div>
@@ -97,8 +100,14 @@ export const AppBar: FC = (props) => {
             <Link href="/">
               <a className="btn btn-ghost btn-sm rounded-btn">Home</a>
             </Link>
+            <Link href="/checkwallet">
+              <a className="btn btn-ghost btn-sm rounded-btn">Check Wallet</a>
+            </Link>
             <Link href="/display">
               <a className="btn btn-ghost btn-sm rounded-btn">Display NFT</a>
+            </Link>
+            <Link href="/explore">
+              <a className="btn btn-ghost btn-sm rounded-btn">Explore</a>
             </Link>
             <Link href="/candymachine">
               <a className="btn btn-ghost btn-sm rounded-btn">Candy Machine</a>
