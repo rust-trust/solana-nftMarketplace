@@ -15,6 +15,12 @@
  ##  🛠  $\textcolor{gray}{Install\ dependencies}$
  
  ```ruby
+ npm install @metaplex-foundation/js
+ npm install @solana/wallet-adapter-base
+ npm install @solana/wallet-adapter-react-ui
+ npm install @tailwindcss/typography
+ npm install typewriter-effect
+ npm install @solana/web3.js
  
  ```
 
