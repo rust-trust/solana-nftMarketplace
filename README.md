@@ -46,7 +46,7 @@ Solana                     |  NftMArketplace
  ```
  >__Warning__ Please be sure that you install all dependencies!
  
- And write in your terminal :d
+ And write in your terminal :
  
   ```
  npm run dev
@@ -54,7 +54,7 @@ Solana                     |  NftMArketplace
  
  And have fun 🎉
  
- ## ☕  $\textcolor{gray}{Let's\ look\ out\ pages}$
+ ## ☕  $\textcolor{gray}{Let's\ scroll\ through\ the\ pages}$
  ![image](https://user-images.githubusercontent.com/109158340/211146778-c8001894-13c7-4013-a10a-2e8d85b44bdc.png)
 ![image](https://user-images.githubusercontent.com/109158340/211146824-b87dd13c-de20-499d-9a6b-a90120f0510b.png)
 ![image](https://user-images.githubusercontent.com/109158340/211146863-f555b220-f69e-431a-8368-06c7becd5c95.png)
