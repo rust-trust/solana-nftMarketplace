@@ -56,13 +56,24 @@ Solana                     |  NftMArketplace
  
  ## ☕  $\textcolor{gray}{Let's\ scroll\ through\ the\ pages}$
  
-  [![](https://img.shields.io/badge/CheckWallet-blueviolet?style=for-the-badge)](https://nftmarketsolana.vercel.app/checkwallet) With this page you can learn your balance and airdrop to your account.
+  > [![](https://img.shields.io/badge/CheckWallet-blueviolet?style=for-the-badge)](https://nftmarketsolana.vercel.app/checkwallet) 
+  * ###  👀  $\textcolor{gray}{With\ this\ page\ you\ can\ learn\ your\ balance\ and\ airdrop\ to\ your\ account.}$
  ![image](https://user-images.githubusercontent.com/109158340/211146778-c8001894-13c7-4013-a10a-2e8d85b44bdc.png)
- [![](https://img.shields.io/badge/DisplayNfts-blueviolet?style=for-the-badge)](https://nftmarketsolana.vercel.app/display) If you have Nfts in your account this page displays your all nfts automaticly.
+ ---
+ > [![](https://img.shields.io/badge/DisplayNfts-blueviolet?style=for-the-badge)](https://nftmarketsolana.vercel.app/display)
+  * ###  🛠  $\textcolor{gray}{If\ you\ have\ Nfts\ in\ your\ account\ this\ page\ displays\ your\ all\ nfts\ automaticly.}$
 ![image](https://user-images.githubusercontent.com/109158340/211146824-b87dd13c-de20-499d-9a6b-a90120f0510b.png)
-[![](https://img.shields.io/badge/Explore-blueviolet?style=for-the-badge)](https://nftmarketsolana.vercel.app/explore) Explore !!! You can explore and filter Nfts by names.
+---
+> [![](https://img.shields.io/badge/Explore-blueviolet?style=for-the-badge)](https://nftmarketsolana.vercel.app/explore) 
+  * ###  ✨  $\textcolor{gray}{Explore !!!\ You\ can\ explore\ and\ filter\ Nfts\ by\ names.}$
 ![image](https://user-images.githubusercontent.com/109158340/211146863-f555b220-f69e-431a-8368-06c7becd5c95.png)
-[![](https://img.shields.io/badge/CandyMachineNfts-blueviolet?style=for-the-badge)](https://nftmarketsolana.vercel.app/candymachine) If you have cany machine addres you can easily get your nfts from candy machine. I you have no address you can try with mine : 2uE3z1PKT9EERK1pkxBt1pzmtmJXdFqYM2pMzwHUVHTy
+---
+> [![](https://img.shields.io/badge/CandyMachineNfts-blueviolet?style=for-the-badge)](https://nftmarketsolana.vercel.app/candymachine) 
+  * ###  🍭  $\textcolor{gray}{If\ you\ have\ cany\ machine\ addres\ you\ can\ easily\ get\ your\ nfts\ from\ candy\ machine.}$ 
+  > If you have no address you can try with mine :
+   ```
+   2uE3z1PKT9EERK1pkxBt1pzmtmJXdFqYM2pMzwHUVHTy
+   ```
 ![image](https://user-images.githubusercontent.com/109158340/211147092-68ec1f79-c64f-4bd8-96b4-50e8ed55ed9c.png)
 
  
