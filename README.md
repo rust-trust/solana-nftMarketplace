@@ -35,6 +35,33 @@ Solana                     |  NftMArketplace
 :-------------------------:|:-------------------------:
 ![image](https://user-images.githubusercontent.com/109158340/211107853-76da87a3-7d72-48b4-a359-1d33ddd6bc2d.png)  |  ![image](https://user-images.githubusercontent.com/109158340/211110422-6cd99080-3fd9-4b50-8811-2ce0c023eb47.png)
 
+ ##  📝  $\textcolor{gray}{Let's\ start}$
+ To run this repo :
+ ```
+ npm install
+ ```
+ or
+  ```
+ yarn install
+ ```
+ >__Warning__ Please be sure that you install all dependencies!
+ 
+ And write in your terminal :d
+ 
+  ```
+ npm run dev
+ ```
+ 
+ And have fun 🎉
+ 
+ ## ☕  $\textcolor{gray}{Let's\ look\ out\ pages}$
+ ![image](https://user-images.githubusercontent.com/109158340/211146778-c8001894-13c7-4013-a10a-2e8d85b44bdc.png)
+![image](https://user-images.githubusercontent.com/109158340/211146824-b87dd13c-de20-499d-9a6b-a90120f0510b.png)
+![image](https://user-images.githubusercontent.com/109158340/211146863-f555b220-f69e-431a-8368-06c7becd5c95.png)
+![image](https://user-images.githubusercontent.com/109158340/211147092-68ec1f79-c64f-4bd8-96b4-50e8ed55ed9c.png)
+
+ 
+ 
 
 
 
