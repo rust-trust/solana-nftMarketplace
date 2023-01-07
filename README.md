@@ -57,7 +57,7 @@ Solana                     |  NftMArketplace
  ## ☕  $\textcolor{gray}{Let's\ scroll\ through\ the\ pages}$
  
   > [![](https://img.shields.io/badge/CheckWallet-blueviolet?style=for-the-badge)](https://nftmarketsolana.vercel.app/checkwallet) 
-  * ####  👀  $\textcolor{gray}{With\ this\ page\ you\ can\ learn\ your\ balance\ and\ airdrop\ to\ your\ account.}$
+  * ###  👀  $\textcolor{gray}{With\ this\ page\ you\ can\ learn\ your\ balance\ and\ airdrop\ to\ your\ account.}$
  ![image](https://user-images.githubusercontent.com/109158340/211146778-c8001894-13c7-4013-a10a-2e8d85b44bdc.png)
  ---
  > [![](https://img.shields.io/badge/DisplayNfts-blueviolet?style=for-the-badge)](https://nftmarketsolana.vercel.app/display)
