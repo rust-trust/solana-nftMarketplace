@@ -69,7 +69,7 @@ Solana                     |  NftMArketplace
 ---
 > [![](https://img.shields.io/badge/Explore-blueviolet?style=for-the-badge)](https://nftmarketsolana.vercel.app/explore) 
   * ###  ✨  $\textcolor{gray}{Explore !!!\ You\ can\ explore\ and\ filter\ Nfts\ by\ names.}$
-![image](https://user-images.githubusercontent.com/109158340/211146863-f555b220-f69e-431a-8368-06c7becd5c95.png)
+![image](https://user-images.githubusercontent.com/109158340/211187603-9dad12f4-1de1-4535-a82b-c3d0173fb8b0.png)
 ---
 > [![](https://img.shields.io/badge/CandyMachineNfts-blueviolet?style=for-the-badge)](https://nftmarketsolana.vercel.app/candymachine) 
   * ###  🍭  $\textcolor{gray}{If\ you\ have\ cany\ machine\ addres\ you\ can\ easily\ get\ your\ nfts\ from\ candy\ machine.}$ 
