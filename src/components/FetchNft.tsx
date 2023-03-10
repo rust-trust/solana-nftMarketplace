@@ -28,6 +28,8 @@ export const FetchNft: FC = () => {
       let fetchResult = await fetch(nfts[i].uri)
       let json = await fetchResult.json()
       nftData.push(json)
+      console.log(nftData);
+    
     }
 
     // set state
@@ -45,8 +47,7 @@ export const FetchNft: FC = () => {
         <div className={styles.gridNFT}>
           {nftData.map((nft) => (
             <div>
-              {/* <ul>{nft.name}</ul>
-              <img src={nft.image} /> */}
+
               <div className={styles.innerwrapper}>
                 <div className={styles.content}>
                   <img
@@ -54,9 +55,30 @@ export const FetchNft: FC = () => {
                     alt={nft.name}
                     className={styles.imgnft}
                   />
-                  <div className={styles.nftinfo}>
-                    <div className={styles.nftinfoname}> {nft.name}  </div>
+                  <div className="container mx-auto mt-2">
+                    <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 ">
+                      <div className="flex justify-center ">
+                        <div className={styles.nftinfo}>
+                          <div className={styles.nftinfoname}> {nft.name}  </div>
+
+                        </div>
+                      </div>
+                      <div className="flex justify-center ">
+                        <div className={styles.nftinfo}>
+                          {/* <div className={styles.nftinfoname}> {nft?.blockchain}  </div> */}
+
+                        </div>
+                      </div>
+
+                    </div>
+                    <button
+                      className="px-8 btn animate-pulse bg-gradient-to-r from-[#9945FF] to-[#14F195] hover:from-pink-500 hover:to-yellow-500 ..."
+                    // onClick={buy}
+                    >
+                      Buy
+                    </button>
                   </div>
+
                 </div>
               </div>
             </div>

@@ -1,0 +1,39 @@
+[
+    {
+      "id": 1,
+      "name": "PortraitRed",
+      "price": "0.1",
+      "description": "Get these portraits creating with SkretchAI for only $0.01! ",
+      "image_url": "https://user-images.githubusercontent.com/109158340/211199134-e6a00ae3-ce3c-42dc-b02a-9636fc55a3e0.png",
+      "filename": "nfts",
+      "hash": "QmfCpzU6gsiR7vW9DsbkSnDPjoCzN5bdW2YtX9C2XGb2En"
+    },
+    {
+      "id": 2,
+      "name": "PortraitThoughtful",
+      "price": "1.1",
+      "image_url": "https://user-images.githubusercontent.com/109158340/211199291-7b84c5cf-b3e8-4b0c-9547-58b69ef0cb03.png",
+      "description": "Get these portraits creating with SkretchAI for only $1.1!"
+    },
+    {
+      "id": 3,
+      "name": "PortraitSpace",
+      "price": "0.999",
+      "image_url": "https://user-images.githubusercontent.com/109158340/211199411-24a5e1a4-0acc-45fc-9e27-db774bde978a.png",
+      "description": "A Portrait from space. "
+    },
+    {
+      "id": 4,
+      "name": "PortraitHypnosis",
+      "price": "1.00",
+      "image_url": "https://user-images.githubusercontent.com/109158340/211199664-7c8f7ec4-b27e-4755-a84a-92a59ee0e2f6.png",
+      "description": "Hypnotized woman portrait"
+    },
+    {
+      "id": 5,
+      "name": "PortraitBlack",
+      "price": "1.1",
+      "image_url": "https://user-images.githubusercontent.com/109158340/211199808-905c16ed-1415-48d2-8e3b-1c4aca28503b.png",
+      "description": "A woman with closed eyes from SkretchAI."
+    }
+  ]

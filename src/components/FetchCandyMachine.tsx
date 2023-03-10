@@ -46,6 +46,8 @@ export const FetchCandyMachine: FC = () => {
       let fetchResult = await fetch(pageItems[i].uri)
       let json = await fetchResult.json()
       nftData.push(json)
+      console.log(nftData);
+    
     }
     console.log(nftData)
     // set state
