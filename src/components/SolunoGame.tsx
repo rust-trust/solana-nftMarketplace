@@ -1,4 +1,5 @@
 import React from 'react'
+import Heading from "./Heading";
 
 function SolunoGame() {
     return (
@@ -21,6 +22,7 @@ function SolunoGame() {
                 </div>
             </div>
         </div>
+    )
 }
 
 export default SolunoGame
