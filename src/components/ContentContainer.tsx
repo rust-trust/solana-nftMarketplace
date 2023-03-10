@@ -39,6 +39,11 @@ export const ContentContainer: FC = (props) => {
               <a>Explore/Buy</a>
             </Link>
           </li>
+          <li>
+            <Link href="/soluno">
+              <a>SolUNO</a>
+            </Link>
+          </li>
         
         </ul>
       </div>
