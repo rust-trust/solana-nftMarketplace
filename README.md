@@ -59,11 +59,11 @@ Solana                     |  NftMArketplace
  ## ☕  ${Let's\ scroll\ through\ the\ pages}$
  
   > [![](https://img.shields.io/badge/CheckWallet-blueviolet?style=for-the-badge)](https://nftmarketsolana.vercel.app/checkwallet) 
-  * ###  👀  $\textcolor{gray}{With\ this\ page\ you\ can\ learn\ your\ balance\ and\ airdrop\ to\ your\ account.}$
+  * ###  👀  ${With\ this\ page\ you\ can\ learn\ your\ balance\ and\ airdrop\ to\ your\ account.}$
  ![image](https://user-images.githubusercontent.com/109158340/211146778-c8001894-13c7-4013-a10a-2e8d85b44bdc.png)
  ---
  > [![](https://img.shields.io/badge/DisplayNfts-blueviolet?style=for-the-badge)](https://nftmarketsolana.vercel.app/display)
-  * ###  🛠  $\textcolor{gray}{If\ you\ have\ Nfts\ in\ your\ account\ this\ page\ displays\ your\ all\ nfts\ automaticly.}$
+  * ###  🛠  ${If\ you\ have\ Nfts\ in\ your\ account\ this\ page\ displays\ your\ all\ nfts\ automaticly.}$
 ![image](https://user-images.githubusercontent.com/109158340/211146824-b87dd13c-de20-499d-9a6b-a90120f0510b.png)
 ---
 > [![](https://img.shields.io/badge/Explore-blueviolet?style=for-the-badge)](https://nftmarketsolana.vercel.app/explore) 
@@ -71,7 +71,7 @@ Solana                     |  NftMArketplace
 ![image](https://user-images.githubusercontent.com/109158340/211187603-9dad12f4-1de1-4535-a82b-c3d0173fb8b0.png)
 ---
 > [![](https://img.shields.io/badge/CandyMachineNfts-blueviolet?style=for-the-badge)](https://nftmarketsolana.vercel.app/candymachine) 
-  * ###  🍭  $\textcolor{gray}{If\ you\ have\ cany\ machine\ addres\ you\ can\ easily\ get\ your\ nfts\ from\ candy\ machine.}$ 
+  * ###  🍭  ${If\ you\ have\ cany\ machine\ addres\ you\ can\ easily\ get\ your\ nfts\ from\ candy\ machine.}$ 
   > If you have no address you can try with mine :
    ```
    2uE3z1PKT9EERK1pkxBt1pzmtmJXdFqYM2pMzwHUVHTy
