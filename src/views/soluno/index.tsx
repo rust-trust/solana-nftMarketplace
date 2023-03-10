@@ -14,7 +14,7 @@ export const SolUnoView: FC = ({ }) => {
             
             {/* CONTENT GOES HERE */}
             <div className="text-center">
-              <FetchRandomNft />
+             
             </div>
           </div>
         </div>
