@@ -1,7 +1,6 @@
 ## Solana Nft Marketplace (FinalProjectSolana) [![](https://img.shields.io/badge/nftmarketsolana-blueviolet?style=for-the-badge)](https://nftmarketsolana.vercel.app/)
 
-
-## :dart: $\textcolor{gray}{In\ this\ project\ you\ have\ to\ know:}$ 
+## :dart: ${In\ this\ project\ you\ have\ to\ know:}$ 
 <div>
       <img src="https://user-images.githubusercontent.com/109158340/207687793-d2fe408f-6bfc-4ce6-bfd0-ca7e8bcc17e7.png" title="solana" **alt="solana" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nextjs/nextjs-original.svg" title="Next" alt="Next" width="40" height="40"/>
@@ -12,7 +11,7 @@
  
  ---
  
- ##  🛠  $\textcolor{gray}{Install\ dependencies}$
+ ##  🛠  ${Install\ dependencies}$
  
  ```ruby
  npm install @metaplex-foundation/js
@@ -29,7 +28,7 @@ Responsive                     |  Desktop
 ![image](https://user-images.githubusercontent.com/109158340/211107037-ed5e8c13-731d-4e08-8a66-62cc34ea7406.png)  |  ![image](https://user-images.githubusercontent.com/109158340/211107207-1049b8d5-74cd-465a-8c0d-136db1cf8a94.png)
 
 
- ##  ☝ $\textcolor{gray}{With\ this\ App}$ 🚀
+ ##  ☝ ${With\ this\ App}$ 🚀
  
 Solana                     |  NftMArketplace
 :-------------------------:|:-------------------------:
@@ -38,7 +37,7 @@ Solana                     |  NftMArketplace
 ![image](https://user-images.githubusercontent.com/109158340/211157024-2b45fcfd-5ad0-4a89-bcf9-2bafabb0330b.png)
 
 ---
- ##  📝  $\textcolor{gray}{Let's\ start}$
+ ##  📝  ${Let's\ start}$
  To run this repo :
  ```
  npm install
@@ -57,22 +56,22 @@ Solana                     |  NftMArketplace
  
  And have fun 🎉
  
- ## ☕  $\textcolor{gray}{Let's\ scroll\ through\ the\ pages}$
+ ## ☕  ${Let's\ scroll\ through\ the\ pages}$
  
   > [![](https://img.shields.io/badge/CheckWallet-blueviolet?style=for-the-badge)](https://nftmarketsolana.vercel.app/checkwallet) 
-  * ###  👀  $\textcolor{gray}{With\ this\ page\ you\ can\ learn\ your\ balance\ and\ airdrop\ to\ your\ account.}$
+  * ###  👀  ${With\ this\ page\ you\ can\ learn\ your\ balance\ and\ airdrop\ to\ your\ account.}$
  ![image](https://user-images.githubusercontent.com/109158340/211146778-c8001894-13c7-4013-a10a-2e8d85b44bdc.png)
  ---
  > [![](https://img.shields.io/badge/DisplayNfts-blueviolet?style=for-the-badge)](https://nftmarketsolana.vercel.app/display)
-  * ###  🛠  $\textcolor{gray}{If\ you\ have\ Nfts\ in\ your\ account\ this\ page\ displays\ your\ all\ nfts\ automaticly.}$
+  * ###  🛠  ${If\ you\ have\ Nfts\ in\ your\ account\ this\ page\ displays\ your\ all\ nfts\ automaticly.}$
 ![image](https://user-images.githubusercontent.com/109158340/211146824-b87dd13c-de20-499d-9a6b-a90120f0510b.png)
 ---
 > [![](https://img.shields.io/badge/Explore-blueviolet?style=for-the-badge)](https://nftmarketsolana.vercel.app/explore) 
-  * ###  ✨  $\textcolor{gray}{Explore !!!\ You\ can\ explore\ and\ filter\ Nfts\ by\ names.}$
+  * ###  ✨  ${Explore !!!\ You\ can\ explore\ and\ filter\ Nfts\ by\ names.}$
 ![image](https://user-images.githubusercontent.com/109158340/211187603-9dad12f4-1de1-4535-a82b-c3d0173fb8b0.png)
 ---
 > [![](https://img.shields.io/badge/CandyMachineNfts-blueviolet?style=for-the-badge)](https://nftmarketsolana.vercel.app/candymachine) 
-  * ###  🍭  $\textcolor{gray}{If\ you\ have\ cany\ machine\ addres\ you\ can\ easily\ get\ your\ nfts\ from\ candy\ machine.}$ 
+  * ###  🍭  ${If\ you\ have\ cany\ machine\ addres\ you\ can\ easily\ get\ your\ nfts\ from\ candy\ machine.}$ 
   > If you have no address you can try with mine :
    ```
    2uE3z1PKT9EERK1pkxBt1pzmtmJXdFqYM2pMzwHUVHTy
