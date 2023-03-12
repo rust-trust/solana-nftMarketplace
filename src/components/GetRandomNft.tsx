@@ -1,22 +1,22 @@
 import React from 'react'
 import { useState } from "react";
 
-const [data, setData] = useState([]);
-const getNftData = () => {
-    const options = { method: "GET", headers: { accept: "application/json" } };
-    // https://api.opensea.io/api/v1/assets
-    // https://api.rarible.org/v0.1/items/byOwner/?owner=ETHEREUM:0x4765273c477c2dc484da4f1984639e943adccfeb
-    fetch("https://api.opensea.io/api/v1/assets", options)
-        .then((response) => response.json())
-        .then((response) => {
-            setData(response.assets);
-            console.log(response);
-        })
-        .catch((err) => console.error(err));
-};
-
 //  https://api.rarible.org/v0.1/items/byOwner/?owner=ETHEREUM:0x4765273c477c2dc484da4f1984639e943adccfeb
-export default function GetRandomNft() {
+const GetRandomNft= () => {
+    const [data, setData] = useState([]);
+
+    const getNftData = () => {
+        const options = { method: "GET", headers: { accept: "application/json" } };
+        // https://api.opensea.io/api/v1/assets
+        // https://api.rarible.org/v0.1/items/byOwner/?owner=ETHEREUM:0x4765273c477c2dc484da4f1984639e943adccfeb
+        fetch("https://api.opensea.io/api/v1/assets", options)
+            .then((response) => response.json())
+            .then((response) => {
+                setData(response.assets);
+                console.log(response);
+            })
+            .catch((err) => console.error(err));
+    };
     return (
         <div className="secondP">
             {data.map((nft, index) => {
@@ -32,3 +32,4 @@ export default function GetRandomNft() {
         </div>
     )
 }
+export default GetRandomNft
