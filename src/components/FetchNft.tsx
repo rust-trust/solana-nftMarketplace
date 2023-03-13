@@ -22,14 +22,12 @@ export const FetchNft: FC = () => {
       .findAllByOwner({ owner: wallet.publicKey })
       .run()
 
-    // fetch off chain metadata for each NFT
+     // fetch off chain metadata for each NFT
     let nftData = []
     for (let i = 0; i < nfts.length; i++) {
       let fetchResult = await fetch(nfts[i].uri)
       let json = await fetchResult.json()
       nftData.push(json)
-      console.log(nftData);
-    
     }
 
     // set state
