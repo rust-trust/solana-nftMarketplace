@@ -1,5 +1,4 @@
 import React from 'react'
-
 import Link from "next/link"
 import GetNftData from "../components/GetRandomNft"
 
@@ -10,7 +9,7 @@ function SolunoGame() {
                 <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 gap-1">
                     <div className="flex justify-center text-6xl  p-4 ">
                      
-                        {/* <GetNftData/> */}
+                        <GetNftData/>
                     </div>
                     <div className="flex justify-center text-6xl  p-4 ">
 

@@ -28,47 +28,6 @@ export const FetchRariableNfts: FC = () => {
     }, [address]);
 
 
-    //   // paging
-    //   const getPage = async (page, perPage) => {
-    //     const pageItems = nfts.items.slice(
-    //       (page - 1) * perPage,
-    //       page * perPage
-    //     )
-
-    //     // fetch metadata of NFTs for page
-    //     let nftData = []
-    //     for (let i = 0; i < pageItems.length; i++) {
-    //       let fetchResult = await fetch(pageItems[i].uri)
-    //       let json = await fetchResult.json()
-    //       nftData.push(json)
-    //     }
-    //     console.log(nftData)
-    //     // set state
-    //     setPageItems(nftData)
-    //   }
-
-    //   // previous page
-    //   const prev = async () => {
-    //     if (page - 1 < 1) {
-    //       setPage(1)
-    //     } else {
-    //       setPage(page - 1)
-    //     }
-    //   }
-
-    //   // next page
-    //   const next = async () => {
-    //     setPage(page + 1)
-    //   }
-
-
-    //   // fetch metadata for NFTs when page or candy machine changes
-    //   useEffect(() => {
-    //     if (!nfts) {
-    //       return
-    //     }
-    //     getPage(page, 3)
-    //   }, [nfts, page])
 
     return (
         <div>
