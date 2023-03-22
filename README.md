@@ -30,7 +30,7 @@ Responsive                     |  Desktop
 
  ##  ☝ ${With\ this\ App}$ 🚀
  
-Solana                     |  NftMArketplace
+Solana                     |  NftMarketplace
 :-------------------------:|:-------------------------:
 ![image](https://user-images.githubusercontent.com/109158340/211107853-76da87a3-7d72-48b4-a359-1d33ddd6bc2d.png)  |  ![image](https://user-images.githubusercontent.com/109158340/211110422-6cd99080-3fd9-4b50-8811-2ce0c023eb47.png)
 
