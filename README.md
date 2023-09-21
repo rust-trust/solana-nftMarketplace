@@ -1,6 +1,6 @@
 ## Solana Nft Marketplace (FinalProjectSolana) [![](https://img.shields.io/badge/nftmarketsolana-blueviolet?style=for-the-badge)](https://nftmarketsolana.vercel.app/)
+* ## :dart: ${\color{green}In\ this\ project\ you\ have\ to\ know:}$ 
 
-## :dart: ${In\ this\ project\ you\ have\ to\ know:}$ 
 <div>
       <img src="https://user-images.githubusercontent.com/109158340/207687793-d2fe408f-6bfc-4ce6-bfd0-ca7e8bcc17e7.png" title="solana" **alt="solana" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nextjs/nextjs-original.svg" title="Next" alt="Next" width="40" height="40"/>
@@ -11,7 +11,7 @@
  
  ---
  
- ##  🛠  ${Install\ dependencies}$
+* ##  🛠   ${\color{green}Install\ dependencies}$
  
  ```ruby
  npm install @metaplex-foundation/js
@@ -28,7 +28,7 @@ Responsive                     |  Desktop
 ![image](https://user-images.githubusercontent.com/109158340/211107037-ed5e8c13-731d-4e08-8a66-62cc34ea7406.png)  |  ![image](https://user-images.githubusercontent.com/109158340/211107207-1049b8d5-74cd-465a-8c0d-136db1cf8a94.png)
 
 
- ##  ☝ ${With\ this\ App}$ 🚀
+*  ## ☝ ${\color{green}With\ this\ App}$ 🚀
  
 Solana                     |  NftMarketplace
 :-------------------------:|:-------------------------:
@@ -37,7 +37,7 @@ Solana                     |  NftMarketplace
 ![image](https://user-images.githubusercontent.com/109158340/211157024-2b45fcfd-5ad0-4a89-bcf9-2bafabb0330b.png)
 
 ---
- ##  📝  ${Let's\ start}$
+* ## 📝  ${\color{green}Let's\ start}$
  To run this repo :
  ```
  npm install
@@ -56,7 +56,7 @@ Solana                     |  NftMarketplace
  
  And have fun 🎉
  
- ## ☕  ${Let's\ scroll\ through\ the\ pages}$
+* ## ☕  ${\color{green}Let's\ scroll\ through\ the\ pages}$
  
   > [![](https://img.shields.io/badge/CheckWallet-blueviolet?style=for-the-badge)](https://nftmarketsolana.vercel.app/checkwallet) 
   * ###  👀  ${With\ this\ page\ you\ can\ learn\ your\ balance\ and\ airdrop\ to\ your\ account.}$
